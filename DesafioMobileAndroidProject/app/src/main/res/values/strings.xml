@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">DesafioMobileAndroidProject</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="pesquisar">Pesquisar</string>
+    <string name="total">Total</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="shipping">Shipping</string>
+    <string name="tax">Tax</string>
+    <string name="checkout">Checkout</string>
+    <string name="items_cart">%1$d items in your cart</string>
+    <string name="title">Title</string>
+    <string name="stock">in stock</string>
+    <string name="out_stock">out of stock</string>
+    <string name="carrinho_vazio">Carrinho vazio</string>
+    <string name="cart">Cart</string>
+    <string name="remove_from_cart">Remove from cart</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nisl massa, feugiat porttitor mollis in, eleifend eget tortor. Sed leo dui, finibus vel euismod at, suscipit nec urna. Duis dapibus porttitor mollis. Quisque gravida quis sapien in consequat. Vestibulum nunc ante, condimentum non ante eleifend, efficitur ullamcorper erat. Donec rutrum viverra lectus, vitae aliquam magna vehicula ac. Aenean venenatis interdum lorem, quis euismod orci sodales nec. Nullam sodales, ligula sit amet tempor convallis, nulla ex auctor sem, in consectetur diam augue ut urna. Ut sollicitudin ullamcorper nunc, eu tincidunt urna elementum quis. Nullam et faucibus tortor, nec semper dolor. Cras diam nunc, fringilla varius magna id, eleifend pharetra ligula. Maecenas vehicula lorem ut quam finibus, rhoncus consectetur enim vulputate.
+
+Nunc sed massa ultrices, dictum diam tempus, pellentesque enim. Nulla commodo imperdiet mattis. Curabitur risus justo, laoreet eget tristique vel, fringilla sit amet metus. Phasellus sed tristique justo, non maximus sapien. Donec scelerisque volutpat nibh, in cursus dui sagittis sit amet. In et diam iaculis, volutpat dui id, placerat est. Proin ac urna sollicitudin, vestibulum erat vitae, vestibulum lectus. Quisque lorem diam, posuere quis tellus tincidunt, imperdiet iaculis neque. Aliquam dapibus sodales ante varius euismod. Nulla facilisi. Donec sit amet augue sed dui ornare facilisis vulputate et arcu. Aliquam erat volutpat. Donec ac sapien nec diam rutrum vulputate. Proin eget cursus diam, id pretium ante.</string>
+    <string name="product_details">Product details</string>
+    <string name="sem_dados">Não há dados</string>
+    <string name="alerta">Alerta</string>
+    <string name="problema_conexao_novamente_value">%1$d - Problema de Conexão, tente novamente</string>
+    <string name="tentar_novamente">Tentar novamente</string>
+
+    <!-- Erros -->
+    <string name="errojson">Erro JSON</string>
+    <string name="HttpRetryException">HttpRetryException</string>
+    <string name="InterruptedByTimeoutException">InterruptedByTimeoutException</string>
+    <string name="InterruptedIOException">InterruptedIOException</string>
+    <string name="MalformedJSONException">MalformedJSONException</string>
+    <string name="AccessDeniedException">AccessDeniedException</string>
+    <string name="AsynchronousCloseException">AsynchronousCloseException</string>
+    <string name="ClosedByInterruptException">ClosedByInterruptException</string>
+    <string name="ConnectException">ConnectException</string>
+    <string name="ConnectTimeoutException">ConnectTimeoutException</string>
+    <string name="SocketException">SocketException</string>
+    <string name="IOException">IOException</string>
+    <string name="UnknowHostException_wifi_3g">UnknowHostException_wifi_3g</string>
+    <string name="UnknowHostException_dns">UnknowHostException_dns</string>
+    <string name="UnknowHostException">UnknowHostException</string>
+    <string name="UnknowServiceException">UnknowServiceException</string>
+
+
+
+</resources>
